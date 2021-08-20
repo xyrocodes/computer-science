@@ -54,7 +54,7 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
 
 **Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments/tests/projects to be graded.
-Note that both [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) and [edX](https://courses.edx.org/financial-assistance/) offer financial aid.
+Note that both [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) and [edX](https://courses.edx.org/financial-assistance/) offers financial aid.
 
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
